@@ -5,6 +5,7 @@ public class Animal
 
    private String nome;
    private String sexo;
+   private String especie;
 
    public String getNome()
    {
